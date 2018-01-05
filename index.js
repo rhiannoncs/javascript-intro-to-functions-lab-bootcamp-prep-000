@@ -25,5 +25,4 @@ function sayHiToGrandma(string) {
 }
 
 var string = "poop"
-var upperString = string.toUpperCase
-console.log(upperString)
+console.log(string.toUpperCase)
