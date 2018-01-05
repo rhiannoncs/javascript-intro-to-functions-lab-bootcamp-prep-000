@@ -22,8 +22,3 @@ function sayHiToGrandma(string) {
     return "I love you, too."
   }
 }
-
-//var string = "poop"
-//console.log(string.toUpperCase)
-
-logShout("poop")
