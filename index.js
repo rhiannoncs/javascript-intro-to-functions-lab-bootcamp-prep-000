@@ -7,8 +7,7 @@ function whisper(string){
 }
 
 function logShout(string){
-  var upperString = string.toUpperCase
-  console.log(upperString)
+  console.log(string.toUpperCase)
 }
 
 function sayHiToGrandma(string) {
@@ -24,5 +23,7 @@ function sayHiToGrandma(string) {
   }
 }
 
-var string = "poop"
-console.log(string.toUpperCase)
+//var string = "poop"
+//console.log(string.toUpperCase)
+
+logShout("poop")
