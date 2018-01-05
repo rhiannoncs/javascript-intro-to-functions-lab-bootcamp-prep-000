@@ -24,4 +24,4 @@ function sayHiToGrandma(string) {
   }
 }
 
-console.log(upperStrings)
+console.log(upperString)
