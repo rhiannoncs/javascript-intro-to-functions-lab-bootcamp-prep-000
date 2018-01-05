@@ -24,4 +24,4 @@ function sayHiToGrandma(string) {
   }
 }
 
-logShout("poop")
+console.log(upperStrings)
