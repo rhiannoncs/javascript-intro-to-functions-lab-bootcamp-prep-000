@@ -24,4 +24,5 @@ function sayHiToGrandma(string) {
   }
 }
 
+var upperString = string.toUpperCase
 console.log(upperString)
